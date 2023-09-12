@@ -1,6 +1,7 @@
 import React from "react";
 import {Text} from "react-native";
 
-export default function App(){
-    return <Text>First Component</Text>
-}
+import Primeiro from "./components/Primeiro";
+
+export default
+
