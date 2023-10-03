@@ -11,7 +11,7 @@ function Comp2(){
 }
 
 function Comp3(){
-    return <Text style={estilo.fontG}>3º Component</Text>
+    return <Text style={estil o.fontG}>3º Component</Text>
 }
 
 export {Comp, Comp2, Comp3};
